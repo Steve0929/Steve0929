@@ -1,5 +1,10 @@
 ### Hi there 👋
+ 
+- 🐦 [Twitter bot] 
+- 🧣 [Mobami help network]
 
+[Twitter bot]: https://twitter.com/SomeBitBot
+[Mobami help network]: https://mobami.tech
 <!--
 **Steve0929/Steve0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
