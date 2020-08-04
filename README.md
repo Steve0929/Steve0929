@@ -3,7 +3,7 @@
 - 🐦 [Twitter bot] 
 - 🧣 [Mobami help network]
 
-<img src="https://raw.githubusercontent.com/Steve0929/Steve0929/master/pc.gif"  width="70px" height="70px" >
+<img src="https://raw.githubusercontent.com/Steve0929/Steve0929/master/pc.gif"  width="140px" height="100px" >
 
 [Twitter bot]: https://twitter.com/SomeBitBot
 [Mobami help network]: https://mobami.tech
