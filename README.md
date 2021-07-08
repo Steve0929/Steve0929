@@ -1,9 +1,10 @@
 # 🈁
 ### 🦇 The new art form 👋
 - 🐦 [Twitter bot] 
+<!--
 - 🧣 [Mobami help network]
 - 🧱 [Blockchain visualization] 
-
+-->
 <img src="https://raw.githubusercontent.com/Steve0929/Steve0929/master/pc.gif"  width="140px" height="120px" >
 
 [Twitter bot]: https://twitter.com/SomeBitBot
