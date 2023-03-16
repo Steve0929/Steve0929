@@ -7,8 +7,8 @@
  [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225658721-b8fb1dd1-05ec-4454-81d2-07c3cc56b6b0.png"/> ](https://twitter.com/SomeBitBot)
  
  <br/><br/><br/><br/><br/>
- [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225466262-66f18ec9-7aa1-4fd0-8d29-db6647ee97c2.png"/> ]
- (https://www.buymeacoffee.com/estebanjs)
+ [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225466262-66f18ec9-7aa1-4fd0-8d29-db6647ee97c2.png"/> ](https://www.buymeacoffee.com/estebanjs)
+ 
 </div>
 
 
