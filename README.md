@@ -4,7 +4,7 @@
  
  [<img align=right width="390" height="175" src="https://user-images.githubusercontent.com/26073885/225463929-1664d34a-b583-465b-9000-12402ba36f4b.png"/> ](https://github.com/Steve0929)
 
- <a href="http://example.com/" target="_blank">
+ <a href="https://twitter.com/SomeBitBot" target="_blank">
  <img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225658721-b8fb1dd1-05ec-4454-81d2-07c3cc56b6b0.png"/> 
   </a>
  
