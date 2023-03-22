@@ -44,7 +44,6 @@
 <img src="https://raw.githubusercontent.com/Steve0929/Steve0929/master/pc.gif"  width="140px" height="120px" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steve0929)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
 
 [Twitter bot]: https://twitter.com/SomeBitBot
