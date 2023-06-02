@@ -1,10 +1,10 @@
 <div>
 
- [<img align=right width="390" height="175" src="https://user-images.githubusercontent.com/26073885/226698590-dcff46e1-d953-44da-b052-9fbc801ac639.png"/> ](https://github.com/Steve0929)
+ [<img align=right width="390" height="175" src="https://github.com/Steve0929/Steve0929/assets/26073885/031f895e-06d1-46ee-a991-d081f2ea95ae"/> ](https://github.com/Steve0929)
 
  [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225658721-b8fb1dd1-05ec-4454-81d2-07c3cc56b6b0.png"/> ](https://twitter.com/SomeBitBot)
  
- 
+
  <br/><br/><br/><br/>
  
  [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225466262-66f18ec9-7aa1-4fd0-8d29-db6647ee97c2.png"/> ](https://www.buymeacoffee.com/estebanjs)
