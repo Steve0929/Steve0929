@@ -1,6 +1,6 @@
 <div>
 
- [<img align=right width="390" height="175" src="https://github.com/Steve0929/Steve0929/assets/26073885/031f895e-06d1-46ee-a991-d081f2ea95ae"/> ](https://github.com/Steve0929)
+ [<img align=right width="390" height="175" src="https://github.com/Steve0929/Steve0929/assets/26073885/a735de77-246d-4e08-949c-6e04759afb77" /> ](https://github.com/Steve0929)
 
  [<img align=right  width="390" height="67" src="https://user-images.githubusercontent.com/26073885/225658721-b8fb1dd1-05ec-4454-81d2-07c3cc56b6b0.png"/> ](https://twitter.com/SomeBitBot)
  
