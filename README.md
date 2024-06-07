@@ -32,8 +32,11 @@
  <img align=right width="185" height="175" src="https://user-images.githubusercontent.com/26073885/225659085-6a109720-04e4-45cb-a3e7-0410ae3efa44.png"/>  
  
  [<img align=right width="185" height="175" src="https://github.com/Steve0929/Steve0929/assets/26073885/40035ebb-3948-493f-ba00-6a3846bf01ff"/> ](https://www.google.com/maps/place/Bogot%C3%A1/data=!4m2!3m1!1s0x8e3f9bfd2da6cb29:0x239d635520a33914?sa=X&ved=2ahUKEwjLz5H74-D9AhXUtTEKHb4zDacQ8gF6BAgUEAI) 
- 
+
 </div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Steve0929/Steve0929/assets/26073885/b5e7dd80-c047-4b55-aaae-5ab0a6f67e97');]{x0000}$}
 
 <!--
 # 🈁
