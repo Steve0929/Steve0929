@@ -35,9 +35,6 @@
 
 </div>
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Steve0929/Steve0929/assets/26073885/b5e7dd80-c047-4b55-aaae-5ab0a6f67e97');]{x0000}$}
-
 <!--
 # 🈁
 ### 🦇 The new art form 👋
@@ -67,3 +64,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Steve0929/Steve0929/assets/26073885/22687136-5d30-45fc-9548-22f0cbaef99a');]{x0000}$}
